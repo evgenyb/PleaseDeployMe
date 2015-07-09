@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>PleaseDeployMe</id>
+    <version>0.1.6</version>
+    <authors>Evgeny Borzenin</authors>
+    <owners>Evgeny Borzenin</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Please Deploy Me</description>
+    <copyright>Copyright 2015</copyright>
+  </metadata>
+</package>
