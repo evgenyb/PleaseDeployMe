@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>PleaseDeployMe</id>
-    <version>0.1.8</version>
+    <version>0.1.12</version>
     <authors>Evgeny Borzenin</authors>
     <owners>Evgeny Borzenin</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
